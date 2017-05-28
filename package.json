@@ -1,0 +1,16 @@
+{
+  "name": "kratori_server",
+  "version": "1.0.0",
+  "description": "Server for kratori game",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.3"
+  }
+}
